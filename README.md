@@ -2,6 +2,11 @@
 Robot Arm Dialogue System capable of creating unique boxes and adding them its world with commands as well as Dialogue and Action System to interact with the Robot in its world
 
 ## Test of System
+![Figure 1](images/1.jpg "Figure 1")
+**Figure 1**
+
+![Figure 2](images/2.png "Figure 2")
+**Figure 2**
 
 ## Language of Robot Plan
 The robot plans can be represented using First Order Predicate Calculus (FOPC). The FOPC is a system of logic in which it is possible to formally express much of the statements of everyday language. The FOPC state-space is closed. This implies that when its logics and relations are applied on its objects and terms, they (i.e. the objects and terms) retain their features. The space may change state but its original feature remains unchanged. This way, the state space cannot be extended or contrasted, but can be made to transit from one configuration, or form, to another.
