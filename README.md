@@ -2,10 +2,12 @@
 Robot Arm Dialogue System capable of creating unique boxes and adding them its world with commands as well as Dialogue and Action System to interact with the Robot in its world
 
 ## Test of System
+
 ![Figure 1](images/1.jpg "Figure 1")
 **Figure 1**
 
-![Figure 2](images/2.png "Figure 2")
+![Figure 2](images/2.jpg "Figure 2")
+
 **Figure 2**
 
 ## Language of Robot Plan
